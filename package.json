@@ -1,17 +1,5 @@
-{
-  "name": "project",
-  "dependencies": {
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  },
-  "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
-  },
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  }
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
 }
